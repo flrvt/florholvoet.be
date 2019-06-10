@@ -1,13 +1,12 @@
 author = "Flor Holvoet"
 baseurl = "https://www.florholvoet.be/"
 canonifyurls = true
-copyright = "Copyright © 2019 Flor Holvoet"
 paginate = 3
 theme = "alageek"
 title = "Flor Holvoet"
 
 [params]
-copyright = "Copyright © 2019 Flor Holvoet"
+copyright = "Flor Holvoet"
 copyrightUrl = "https://www.florholvoet.be/"
 faviconfile = "/favicon.ico"
 latestpostcount = 5
@@ -15,13 +14,13 @@ logofile = "/avatar.jpg"
 highlightjs = true
 
 [[menu.primary]]
-identifier = "blog"
-name = "Blog"
-url = "/blog/"
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/florholvoet/"
 weight = 10
 
 [[menu.primary]]
-identifier = "about"
-name = "About"
-url = "/about/"
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
 weight = 20
