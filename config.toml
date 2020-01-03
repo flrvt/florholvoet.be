@@ -5,6 +5,9 @@ paginate = 3
 theme = "alageek"
 title = "Flor Holvoet"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
 copyright = "Flor Holvoet"
 copyrightUrl = "https://www.florholvoet.be/"
@@ -12,7 +15,7 @@ faviconfile = "favicon.ico"
 latestpostcount = 5
 logofile = "avatar.jpg"
 highlightjs = true
-description = "Personal website of Flor Holvoet. As a true IT generalist, I have the helicopter view to help your organisation grow and adapt to new technologies & innovations. Available for remote or contract work."
+description = "Personal website of Flor Holvoet. As a true IT generalist, I have the helicopter view to help your organisation grow and adapt. Available for remote or contract work."
 
 [[menu.primary]]
 identifier = "linkedin"
