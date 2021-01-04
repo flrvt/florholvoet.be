@@ -1,6 +1,6 @@
 +++
 title = "Agile IT consultant"
-date = "2020-01-03"
+date = "2021-01-03"
 menu = "main"
 +++
 

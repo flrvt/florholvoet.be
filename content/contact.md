@@ -1,6 +1,6 @@
 +++
 title = "Contact"
-date = "2020-01-03"
+date = "2021-01-03"
 menu = "main"
 +++
 
@@ -10,9 +10,9 @@ menu = "main"
 📞 &nbsp; [Skype](skype:florholvoet)
 
 **FLOR HOLVOET BV**  
-🏡 &nbsp; Sterrenlaan 60  
-2610 Wilrijk, Belgium
+🏡 &nbsp; Dascottelei 133/16  
+2100 Antwerpen, Belgium 
 
 **VAT** BE0739665976  
-**IBAN** BE45 7370 5195 7889  
-**BIC** KREDBEBB
+**KBC** BE45 7370 5195 7889  
+**BNP** BE87 0018 9416 7294
