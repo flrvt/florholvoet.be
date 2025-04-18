@@ -1,7 +1,6 @@
 author = "Flor Holvoet"
 baseurl = "https://www.florholvoet.be/"
 canonifyurls = true
-paginate = 3
 theme = "alageek"
 title = "Flor Holvoet"
 
